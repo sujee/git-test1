@@ -1,1 +1,2 @@
 Some thing goes here
+line 2

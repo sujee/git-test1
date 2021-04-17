@@ -1,1 +1,3 @@
 this is a line entered locally on my machine
+this file i'm updating in the remote repo to make a conflict
+
